@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+        "img": "images/react-electronics-store.jpg",
+        "title": "react electronics store",
+        "description": "app Adaptable To All Devices",
+        "category": "react apps",
+        "link": "https://electronics-store-theta.vercel.app",
+        "info": {
+            "features": [
+                "user account: create account, log in, log out",
+                "login with a google account",
+                "shopping cart page",
+                "shop page with filter products by category",
+                "filter and search product by name",
+                "product details page And Contact form"
+            ],
+            "technologies": ["react", "redux", "redux-toolkit", "sass", "firebase", "api"]
+        }
+    },
+    {
+        "id": 2,
+        "img": "images/online-store.jpg",
+        "title": "react online store",
+        "description": "app Adaptable To All Devices",
+        "category": "react apps",
+        "link": "https://online-storez.netlify.app",
+        "info": {
+            "features": [
+                "user account: sign up user, sign in user, sign out user",
+                "user authentication and sign in with google account",
+                "shopping cart",
+                "admin dashboard for project management"
+            ],
+            "technologies": ["react", "redux", "redux-toolkit", "firebase", "sass", "api"]
+        }
+    },
+    {
+        "id": 3,
+        "img": "images/electronic-store.jpg",
+        "title": "Electronics Store",
+        "description": "Website is Adaptable To All Devices",
+        "category": "websites",
+        "link": "https://rdjgrzllb5r5y86ykzzw9g.on.drv.tw/www.electronicShop.com/html",
+        "info": {
+            "features": ["responsive design", "shopping cart", "Valid Account form"],
+            "technologies": ["html", "sass", "js", "api"]
+        }
+    },
+    {
+        "id": 4,
+        "img": "images/quiz.jpg",
+        "title": "Quiz App Api",
+        "description": "App Adaptable To All Devices",
+        "category": "various apps",
+        "link": "https://mohammed-okasha.github.io/Quiz-App-Api/",
+        "info": {
+            "features": ["responsive app", "question Time", "multiple questions", "quiz result"],
+            "technologies": ["html", "css", "js", "api"]
+        }
+    },
+    {
+        "id": 5,
+        "img": "images/cart-app.jpg",
+        "title": "react shopping cart",
+        "description": "app Adaptable To All Devices",
+        "category": "react apps",
+        "link": "https://shopping-cartx.netlify.app",
+        "info": {
+            "features": [
+                "responsive design",
+                "product details",
+                "full shopping cart",
+                "save data in localstorage"
+            ],
+            "technologies": ["react", "redux", "redux-toolkit", "bootstrap", "api"]
+        }
+    },
+    {
+        "id": 6,
+        "img": "images/cosmetics-store.jpg",
+        "title": "Cosmetics Store",
+        "description": "Website is Adaptable To All Devices",
+        "category": "websites",
+        "link": "https://tinyurl.com/5xfkeb8m",
+        "info": {
+            "features": ["responsive design", "professional design", "user Account"],
+            "technologies": ["html", "sass", "js", "api"]
+        }
+    },
+    {
+        "id": 7,
+        "img": "images/to-do-list.jpg",
+        "title": "to do list app",
+        "description": "app is Adaptable To All Devices",
+        "category": "various apps",
+        "link": "https://mohammed-okasha.github.io/To-Do-List/",
+        "info": {
+            "features": ["responsive app", "add to do", "remove to do", "clear all to do list"],
+            "technologies": ["html", "css", "js"]
+        }
+    },
+    {
+        "id": 8,
+        "img": "images/education.jpg",
+        "title": "Education courses website",
+        "description": "Website is Adaptable To All Devices",
+        "category": "websites",
+        "link": "https://mohammed-okasha.github.io/Education-website/",
+        "info": {
+            "features": ["responsive design"],
+            "technologies": ["html", "sass", "js", "api"]
+        }
+    },
+    {
+        "id": 9,
+        "img": "images/ecommerce-1.jpg",
+        "title": "ecommerce website",
+        "description": "Website is Adaptable To All Devices",
+        "category": "websites",
+        "link": "https://rdjgrzllb5r5y86ykzzw9g.on.drv.tw/www.ecommerce.com/html",
+        "info": {
+            "features": ["responsive design", "animation and effects"],
+            "technologies": ["html", "sass", "js"]
+        }
+    },
+    {
+        "id": 10,
+        "img": "images/contact-app-img.jpg",
+        "title": "contact list app",
+        "description":"app is Adaptable To All Devices",
+        "category": "various apps",
+        "link": "https://mohammed-okasha.github.io/Contact-List-App/",
+        "info": {
+            "features": ["responsive app", "add contact", "delete contact", "cancel contact"],
+            "technologies": ["html", "css", "js"]
+        }
+    },
+    {
+        "id": 11,
+        "img": "images/construct-web.jpg",
+        "title": "construction website",
+        "description": "Website is Adaptable To All Devices",
+        "category": "websites",
+        "link": "https://rdjgrzllb5r5y86ykzzw9g.on.drv.tw/www.Shopping.com/Html/build.html",
+        "info": {
+            "features": ["responsive design", "effects"],
+            "technologies": ["html", "css", "js"]
+        }
+    },
+    {
+        "id": 12,
+        "img": "images/ecommerce-2.jpg",
+        "title": "Ecommerce Website",
+        "description": "Website is Adaptable To All Devices",
+        "category": "websites",
+        "link": "https://rdjgrzllb5r5y86ykzzw9g.on.drv.tw/www.shop.com/html/shop.html",
+        "info": {
+            "features": ["responsive design", "filter projects", "shopping cart"],
+            "technologies": ["html", "css", "js"]
+        }
+    },
+    {
+        "id": 13,
+        "img": "images/note-app.jpg",
+        "title": "note taking app",
+        "description":"app is Adaptable To All Devices",
+        "category": "various apps",
+        "link": "https://mohammed-okasha.github.io/Note-Taking-App/",
+        "info": {
+            "features": ["responsive app", "add note", "delete note", "delete all notes"],
+            "technologies": ["html", "css", "js"]
+        }
+    },
+    {
+        "id": 14,
+        "img": "images/movie-web.jpg",
+        "title": "movies website",
+        "description": "Website is Adaptable To All Devices",
+        "category": "websites",
+        "link": "https://rdjgrzllb5r5y86ykzzw9g.on.drv.tw/www.movie.com/html/movie.html",
+        "info": {
+            "features": ["responsive design", "movie trailer"],
+            "technologies": ["html", "css", "js"]
+        }
+    },
+    {
+        "id": 15,
+        "img": "images/food-web-1.jpg",
+        "title": "food website",
+        "description":"Website is Adaptable To All Devices",
+        "category": "websites",
+        "link": "https://rdjgrzllb5r5y86ykzzw9g.on.drv.tw/www.resto.com/html/food.html",
+        "info": {
+            "features": ["responsive design", "shopping cart", "location map"],
+            "technologies": ["html", "css", "js"]
+        }
+    },
+    {
+        "id": 16,
+        "img": "images/tour-travel-1.jpg",
+        "title": "tour travel website",
+        "description":"Website is Adaptable To All Devices",
+        "category": "websites",
+        "link": "https://rdjgrzllb5r5y86ykzzw9g.on.drv.tw/www.Project.com/html/travel.html",
+        "info": {
+            "features": ["responsive design", "Attractive design"],
+            "technologies": ["html", "css", "js"]
+        }
+    },
+    {
+        "id": 17,
+        "img": "images/github-repos.jpg",
+        "title": "Github Repos Api",
+        "description": "App Adaptable To All Devices",
+        "category": "various apps",
+        "link": "https://mohammed-okasha.github.io/github-repos-api/",
+        "info": {
+            "features": ["get all your repos", "visit your repos", "repo name and id", "repo stars"],
+            "technologies": ["html", "css", "js", "api"]
+        }
+    }
+]
